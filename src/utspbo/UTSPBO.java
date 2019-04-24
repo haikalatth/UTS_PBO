@@ -22,7 +22,7 @@ public class UTSPBO {
         Komputer1.cetakInfo();        
         Komputer1.mencabut(Amd1);
         Komputer1.memasang(Intel1);
-        Komputer1.cetakInfo();
+        Komputer1.cetakInfo(); 
         // TODO code application logic here
     }
     

@@ -14,6 +14,9 @@ public class Komputer {
     public Komputer(Cpu a){
         this.cpu = a;
     }
+    public Komputer(){
+    
+    }
     public void memasang(Cpu a) {
         this.cpu = a;
         System.out.println("CPU : "+this.cpu.getCpuData()+" dipasang");
