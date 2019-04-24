@@ -9,13 +9,8 @@ package utspbo;
  *
  * @author micin
  */
-public class UTSPBO {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {    
-        // TODO code application logic here
+public class Intel extends Cpu {
+    public Intel(int a){
+        super("Intel",a);
     }
-    
 }
